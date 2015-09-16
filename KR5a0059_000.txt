@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:28.320145
+# -*- mode: mandoku-view -*-
 #+TITLE: 元始洞真決疑經
-#+PROPERTY: DZID  DZ0059
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—4 一卷 洞真部本文類
+#+DATE: 2015-08-28 23:35:28
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0059_HFL_001-001a>¶<pb:KR5a0059_SJB_001-020004c>
+
